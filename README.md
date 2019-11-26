@@ -30,3 +30,6 @@ Jupyter Notebook file details how housing price data is cleaned and transformed,
 
 ## HW6-Spike Sorting
 Given an vector of neural amplitudes, spikes are extracted using varying signal windows and thresholds. The best unsupervisedlearning technique is determined following kmeans clustering. After the optimal cluster is found, the average waveform is ploted.
+
+## HW7-Neural Networks
+Neural networks are trained on the cifar10 dataset and the effects of kernel initialization, batch normalization, and activation functions are analyzed.
