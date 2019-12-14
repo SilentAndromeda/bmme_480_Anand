@@ -33,3 +33,6 @@ Given an vector of neural amplitudes, spikes are extracted using varying signal 
 
 ## HW7-Neural Networks
 Neural networks are trained on the cifar10 dataset and the effects of kernel initialization, batch normalization, and activation functions are analyzed.
+
+## Final Project
+Data from ViSR simulations was split into 1D time series displacement vectors, as well 2D displacement images. The 1D data was fed into PCA-Regressor and fully connected network models while the 2D data was fed into the convolutional neural network models. The lowest RMSE acheived was with a Sigmoid Kernel PCA followed by KNN Regressor. 
